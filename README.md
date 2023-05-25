@@ -60,78 +60,78 @@ Node >= 12
 
 登录包括两种不同的风格，一种是背景图，一种是`three.js`粒子动效。默认样式为背景图，若要更换则将`src/views/login1.vue`和`login.vue`文件名进行更改，让你想使用的样式的文件名为`login.vue`则可。（两个文件只能有一个名为`login.vue`,那个名为login.vue则就是那个样式）
 
-![登录](yanshitu/login.png)
-![登录](yanshitu/login1.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/3d2a43d9-4a17-4938-ba3b-20fa5bb78f7f)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/4b58e375-6f5d-417b-868d-75435b11adb7)
+
 
 ### 首页
 
 
-![首页](yanshitu/shouye.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/dae76f75-6384-42d9-b8ce-f3b38408fce6)
 
 #### 	 首页2
 
-![首页](yanshitu/shouye1.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/a0ba7960-ee1f-4e5d-8bbc-7fe609ba21f0)
 
 ### 药品管理
 
 ####    药品供应商管理  
 
-![药品供应商管理](yanshitu/gongyingshang.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/7ef8f015-666a-4e9c-9ada-20bcaa748842)
 
 ####  药品信息管理
 
-![药品信息管理](yanshitu/xinxi.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/719b0ef1-7310-4135-9437-cf1341a5bc0a)
 
-![药品信息详情](yanshitu/xinxidetail.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/775f50a8-5f01-4bd1-b0c4-5396efd4f665)
 
 ####    药品入库管理（新增批量入库功能，未更新演示图）
 
-![药品入库管理](yanshitu/ruku.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/a133b3a6-fdf3-470a-ad1a-e7baa484a2a0)
 
 #### 药品出库管理
 
-![药品出库管理](yanshitu/chuku.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/1b94de5b-458d-465a-8884-ccb55cf62df4)
 
 #### 药品库存管理
 
-![药品库存管理](yanshitu/kucun.png)
-
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/bc2e2bbc-92a1-43b9-8948-05cacf42777c)
 ##### 药品出售
 
-![首页](yanshitu/chushou.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/84a90fd5-7e5b-4651-8545-02451089813c)
 
 ##### 药品批量出售
 
-![首页](yanshitu/piliangchushou.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/1f78d4a2-414e-468f-85ea-5cab35397b21)
 
 
 
 ##### 药品流水
 
-![药品流水](yanshitu/liushuizhang.png)  
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/6111ae40-13ad-474d-9c97-2f6d3b37666d)
 
 #### 订单管理
 
-![首页](yanshitu/dingdan.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/8e7415ca-3bdd-4c24-9fde-3be199e411e1)
 
 ##### 订单明细
 
-![首页](yanshitu/dingdanmingxi.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/0b4117a9-45db-41ac-98f3-2b218c6fcae8)
 
 ##### 取消订单
 
-![首页](yanshitu/quxiaodingdan.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/59110319-0c69-4760-8165-abfe281d8ff7)
 
 ####  药品回退管理
 
-![药品退回管理](yanshitu/tuihui.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/8bdcb16c-d483-46c2-a035-a6e19685dbc4)
 
 ### 系统集成了积木报表（详情请访问积木[报表官网](http://www.jimureport.com/)）
 
-![积木报表](yanshitu/jimu.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/d0266ba7-5108-4c9c-9343-a7cd48ee58c9)
 
 #### 药品入库报表
 
-![药品入库报表](yanshitu/rukubaobiao.png)
+![image](https://github.com/ybliuyb/HospitalDrug-In-Out/assets/99953375/ecdcd767-f9a9-4a5e-9a56-db58a5255563)
 
 ### 系统管理和日志管理模块为[若依系统](http://www.ruoyi.vip/)模块。
